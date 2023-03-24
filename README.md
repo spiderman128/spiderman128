@@ -21,8 +21,8 @@ Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports �
 <td valign="center" width="45%">
 <div align="center" style="justify-content:"center">
 	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=spiderman128&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-	<img height="200" src="https://assets.azion.com/static/videos/learn-more-video.gif"/>
-<!-- 	<img src="https://camo.githubusercontent.com/841086315c1e539a10fe125dd29dc05ef44686ca6969e1c6aa14db46a8efb4eb/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d746b6f686c69267468656d653d6461726b687562266e6f2d62673d7472756526726f773d3226636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135" alt="streak" data-canonical-src="https://github-profile-trophy.vercel.app/?username=glistenstar&theme=gruvbox&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" style="max-width: 100%;"> -->
+<!-- 	<img height="200" src="https://assets.azion.com/static/videos/learn-more-video.gif"/> -->
+	<img src="https://camo.githubusercontent.com/841086315c1e539a10fe125dd29dc05ef44686ca6969e1c6aa14db46a8efb4eb/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d746b6f686c69267468656d653d6461726b687562266e6f2d62673d7472756526726f773d3226636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135" alt="streak" data-canonical-src="https://github-profile-trophy.vercel.app/?username=glistenstar&theme=gruvbox&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" style="max-width: 100%;">
 	<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&theme=dark&count_private=true&show_icons=true&"/>
 </div> 
 
