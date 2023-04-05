@@ -6,8 +6,8 @@
 I am an experienced software developer with over 9+ years of expertise in creating web & mobile applications across a wide range of industries - from the development of consumer productivity software to building mission-critical financial trading platforms.
 My proficiency in JavaScript, coupled with my vast knowledge of browser APIs and familiarity with the most prominent web frameworks, have enabled me to rise above the rest in my field. 
 	
-I am well-versed in front-end frameworks including **Svelte, React, Ember, Angular, and Vue**, which are the primary tools utilized to transform my projects into dynamic, interactive and visually appealing applications.
-I also have worked extensively with various frameworks such as **Express.js, NestJS, Laravel, WordPress, ASP.NET Core, and Django**.
+I am well-versed in front-end frameworks including _**Svelte, React, Ember, Angular, and Vue**_, which are the primary tools utilized to transform my projects into dynamic, interactive and visually appealing applications.
+I also have worked extensively with various frameworks such as _**Express.js, NestJS, Laravel, WordPress, ASP.NET Core, and Django**_.
 
 With regards to mobile development, I have established myself as an accomplished developer with proven expertise in developing Android, iOS, React Native, and Flutter applications that provide seamless user experiences.
 
