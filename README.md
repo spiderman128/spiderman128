@@ -3,16 +3,17 @@
 <br/>
 <strong>A Senior Web & Mobile Developer</strong>.👋 
 <hr/>
-I have 9+ years of experience writing web and mobile apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React & Svelte & Qwik. 
+I am an experienced software developer with over 9+ years of expertise in creating web & mobile applications across a wide range of industries - from the development of consumer productivity software to building mission-critical financial trading platforms.
+My proficiency in JavaScript, coupled with my vast knowledge of browser APIs and familiarity with the most prominent web frameworks, have enabled me to rise above the rest in my field. 
+	
+I am well-versed in front-end frameworks including **Svelte, React, Ember, Angular, and Vue**, which are the primary tools utilized to transform my projects into dynamic, interactive and visually appealing applications.
+I also have worked extensively with various frameworks such as **Express.js, NestJS, Laravel, WordPress, ASP.NET Core, and Django**.
 
-As a full-stack developer, my main programming language is JS/TS, PHP, Python, and Java. I have good experience with ❤️Svelte, React, Qwik❤️, Angular, Vue. Particularly React, Svelte, Qwik is my ❤️ framework and also I have rich experience on React Framework(MERN), Svelte Framework (SvelteKit, Vite).
-Including framwork that said above, I have developed 80 websites with MERN, Svelte Kit, Vite, MEVN, NuxtJS, NextJS, Laravel, Django.
+With regards to mobile development, I have established myself as an accomplished developer with proven expertise in developing Android, iOS, React Native, and Flutter applications that provide seamless user experiences.
 
-As mobile development, I have good experience in Android, iOS, React Native and Flutter.
+Furthermore, I possess a strong technical understanding of machine learning algorithms that includes neural networks and deep learning, as well as web automation utilizing Python.
 
-I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning, web automation using python.
-
-For web automation, I am working with JS Puppeteer and Python Selenium, I have achieve to sucess several project using this technology.
+Overall, I am confident in my skills and abilities as a seasoned and successful developer, always pushing the limits of what is possible while staying on the cutting edge of technology advancements.
 <hr/>
 Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 <br/><br/>
