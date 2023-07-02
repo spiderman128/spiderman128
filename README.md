@@ -9,7 +9,7 @@ My proficiency in JavaScript, coupled with my vast knowledge of browser APIs and
 I am well-versed in front-end frameworks including _**Svelte, React, Ember, Angular, and Vue**_, which are the primary tools utilized to transform my projects into dynamic, interactive and visually appealing applications.
 I also have worked extensively with various frameworks such as _**Express.js, NestJS, Laravel, WordPress, ASP.NET Core, and Django**_.
 
-With regards to mobile development, I have established myself as an accomplished developer with proven expertise in developing Android, iOS, React Native, and Flutter applications that provide seamless user experiences.
+With regards to mobile development, I have established myself as an accomplished developer with proven expertise in developing _**Android, iOS, React Native, and Flutter**_ applications that provide seamless user experiences.
 
 Furthermore, I possess a strong technical understanding of machine learning algorithms that includes neural networks and deep learning, as well as web automation utilizing Python.
 
